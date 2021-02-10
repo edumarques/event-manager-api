@@ -1,5 +1,8 @@
 # Event Manager API
 
+[![Build Status](https://travis-ci.com/edumarques/event-manager-api.svg?branch=master)](https://travis-ci.com/edumarques/event-manager-api)
+[![codecov](https://codecov.io/gh/edumarques/event-manager-api/branch/master/graph/badge.svg)](https://codecov.io/gh/edumarques/event-manager-api)
+
 ## Scope
 This is an API of an application such as a social event network that implements the following features:
 
